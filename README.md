@@ -40,5 +40,5 @@ Data Engineering | Data Science | Project Management
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/instagram.svg' alt='instagram' height='40'>](https://instagram.com/alisoncsousa_)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/x.svg' alt='x' height='40'>](https://x.com/alisoncsousa)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/credly.svg' alt='credly' height='40'>](https://www.credly.com/users/alisoncsousa)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/icloud.svg' alt='website' height='40'>](https://alison-sousa.github.io/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@15.16.1/icons/sitepoint.svg' alt='website' height='40'>](https://alison-sousa.github.io/)
 
