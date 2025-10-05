@@ -4,11 +4,11 @@
 
 Hello!👋🏻 My name is Alison Sousa. I am from University of São Paulo, taking a BSc in Chemical Engineering. I also earned a BA in International Relations from ESPM/SP. 🎓
 
-I have a huge interest in AI 🤖! Founder of SMTech, and experience in quantitative analysis at China Construction Bank.
+I have a huge interest in AI🤖! Founder of SMTech, and experience in quantitative analysis at China Construction Bank.
 
-I love strategy games like Go and chess ♟️, boxing 🥊, and support FC Barcelona ⚽.
+I love strategy games like Go and chess♟️, boxing🥊, and support FC Barcelona⚽.
 
-I enjoy joining communities and competitions that create something impactful for society! 🙋
+I enjoy joining communities and competitions that create something impactful for society! 🙋🏻‍♂️
 
 **Skills:**  
 Data Engineering | Data Science | Project Management  
@@ -31,7 +31,7 @@ Data Engineering | Data Science | Project Management
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning ReactJS 
 - 📫 How to reach me: alisoncsousa (Twitter, Linkedin, Instagram) 
-- 😄 Pronouns: He/Him 
+- 👨🏻 Pronouns: He/Him 
 - ⚡ Fun fact: I once solved a Rubik’s Cube in under a minute just to impress my friends!  
 
 
